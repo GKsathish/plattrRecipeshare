@@ -4,7 +4,7 @@ import RecipeList from './components/RecipeList';
 import RecipeDetail from './components/RecipeDetail';
 import AddRecipe from './components/AddRecipe';
 import Navbar from './components/Navbar';
-import 'bo'
+
 
 function App() {
   return (
